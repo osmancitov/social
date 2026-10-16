@@ -1,0 +1,24 @@
+16 de octubre de 2026
+
+# El protocolo Matrix
+
+![Puertos que se escriben: barcas mensajeras cruzan el agua entre ciudades portuarias independientes, cada una con su torre y su muelle, al estilo de Canaletto](../img/cgbabg_protocolo-matrix.jpg)
+
+Matrix es un protocolo abierto para comunicarse en tiempo real: mensajes, voz y video. No es una aplicación ni una empresa, sino una regla de juego pública, como lo son el correo electrónico o la web. Las aplicaciones que lo hablan —la más conocida es Element— son solo puertas hacia la misma conversación.
+
+Su rasgo mayor es la federación. Cada quien elige o levanta su propio servidor, y aun así todos conversan entre sí, como ciudades portuarias que se escriben por barca sin palacio central que las mande. Una sala no vive en un solo servidor: el servidor de cada participante guarda su propia copia de la conversación, de modo que no hay un punto único de control ni de falla. Las conversaciones privadas viajan cifradas de extremo a extremo, y los puentes conectan la red con otras plataformas, para seguir hablando con quien todavía no llega.
+
+
+Técnicamente es un protocolo de la capa de aplicación: los mensajes viajan en formato JSON sobre HTTP, con implementaciones de referencia de código abierto, y la voz y el video se apoyan en WebRTC. El estándar completo es público: cualquiera puede escribir su propio cliente o su propio servidor.
+
+El proyecto nació dentro de la empresa Amdocs, de la mano de Matthew Hodgson y Amandine Le Pape, y se presentó en septiembre de 2014. Desde 2018 lo cuida la Fundación Matrix.org, una custodia neutral que mantiene el estándar único y abierto. Su manifiesto es claro: las personas deben tener control pleno sobre su propia comunicación, y conversar con privacidad es un derecho básico. En 2024 salió Matrix 2.0, más rápido y con llamadas de grupo.
+
+No es un proyecto de laboratorio. El gobierno francés lo adoptó para Tchap, su mensajería oficial; el Ministerio de Defensa alemán montó sobre él su BwMessenger; Mozilla cerró su viejo IRC y mudó su charla pública a Matrix, y la comunidad de KDE lo usa para coordinarse. En febrero de 2026, cuando Discord anunció que pediría verificación de edad a sus usuarios, muchos emigraron a Matrix buscando otra manera de conversar.
+
+Ahí está su enganche con las redes sociales de hoy. Las plataformas dominantes son jardines cerrados: una sola empresa es dueña de la plaza, del altavoz y de la lista de invitados, y decide qué se ve y qué se calla. Matrix propone el camino contrario: la conversación como bien común, un estándar que nadie posee y que todos pueden mejorar, como el SMTP del correo. No hace falta pedir permiso para hablar: basta una cuenta en un servidor, propio o prestado.
+
+Por eso esta casa conversa en Matrix. Una red social de verdad empieza cuando la palabra de cada quien queda en sus propias manos.
+
+Fuentes: [matrix.org](https://matrix.org/about/) · [joinmatrix.org](https://joinmatrix.org/) · [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
+
+Osmancito, con la asistencia de Instinct

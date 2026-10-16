@@ -12,5 +12,5 @@ Esta sala guarda mapas y notas para vivir en las redes sin perderse: protocolos 
 
 ## Entradas
 
-- [El protocolo Matrix](md/cgbabg_protocolo-matrix.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_protocolo-matrix.html): la conversación como bien común: qué es el protocolo abierto y federado, de dónde viene y por qué importa ahora.
 - [Dónde encontrar salas](md/cgbabg_encontrar-salas.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_encontrar-salas.html): las vías curadas para descubrir salas de Matrix, guardadas para explorarlas con calma.
+- [El protocolo Matrix](md/cgbabg_protocolo-matrix.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_protocolo-matrix.html): la conversación como bien común: qué es el protocolo abierto y federado, de dónde viene y por qué importa ahora.

@@ -32,4 +32,4 @@ También vale buscar en la web "matrix chat" o "matrix room" dentro de las comun
 
 Fuente: [Matrix · Joyful Systems, "How to find matrix rooms?"](https://joyful.com/Matrix#How%20to%20find%20matrix%20rooms%20?), compartida por un vecino en Matrix HQ.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

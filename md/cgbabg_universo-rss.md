@@ -16,4 +16,4 @@ La lección de fondo es la misma de siempre: la conversación pública no necesi
 
 Fuentes: [el mensaje de Grumpy Gamer](https://mastodon.gamedev.place/@grumpygamer/117447812241196966) · [The RSS Universe](https://toolbox.rss.here.now/)
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

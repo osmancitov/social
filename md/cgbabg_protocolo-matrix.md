@@ -21,4 +21,4 @@ Por eso esta casa conversa en Matrix. Una red social de verdad empieza cuando la
 
 Fuentes: [matrix.org](https://matrix.org/about/) · [joinmatrix.org](https://joinmatrix.org/) · [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

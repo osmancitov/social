@@ -2,7 +2,7 @@
 
 # El protocolo Matrix
 
-![Puertos que se escriben: barcas mensajeras cruzan el agua entre ciudades portuarias independientes, cada una con su torre y su muelle, al estilo de Canaletto](../img/cgbabg_protocolo-matrix.jpg)
+[![Puertos que se escriben: barcas mensajeras cruzan el agua entre ciudades portuarias independientes, cada una con su torre y su muelle, al estilo de Canaletto](../img/cgbabg_protocolo-matrix.jpg)](../img/cgbabg_protocolo-matrix.jpg)
 
 Matrix es un protocolo abierto para comunicarse en tiempo real: mensajes, voz y video. No es una aplicación ni una empresa, sino una regla de juego pública, como lo son el correo electrónico o la web. Las aplicaciones que lo hablan —la más conocida es Element— son solo puertas hacia la misma conversación.
 

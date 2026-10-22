@@ -2,7 +2,7 @@
 
 # El universo RSS
 
-![El lector de la lámpara: de noche, una persona lee un periódico recién llegado a la luz de una lámpara de aceite, con la correspondencia del día ordenada a su lado, al estilo de Rembrandt](../img/cgbabg_universo-rss.jpg)
+[![El lector de la lámpara: de noche, una persona lee un periódico recién llegado a la luz de una lámpara de aceite, con la correspondencia del día ordenada a su lado, al estilo de Rembrandt](../img/cgbabg_universo-rss.jpg)](../img/cgbabg_universo-rss.jpg)
 
 La noche del 15 de octubre, Ron Gilbert escribió en Mastodon una invitación que pegó fuerte: «Forget billionaire algorithms, use RSS». Olvida los algoritmos de los multimillonarios: usa RSS. Gilbert es el diseñador de Monkey Island y de Thimbleweed Park, y habla con oficio: recuerda que casi todos los sitios tienen un feed, que sus dos bitácoras —la de Thimbleweed Park y la suya, Grumpy Gamer— lo sirven con el texto completo, y que él usa y sirve RSS desde 2005. En un día el mensaje reunió 739 impulsos y 942 favoritos.
 

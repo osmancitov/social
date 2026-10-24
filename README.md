@@ -12,6 +12,6 @@ Esta sala guarda mapas y notas para vivir en las redes sin perderse: protocolos 
 
 ## Entradas
 
-- [El universo RSS](md/cgbabg_universo-rss.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_universo-rss.html): RSS no ha muerto: la respuesta de Ron Gilbert al algoritmo y un directorio vivo con todo el ecosistema.
-- [Dónde encontrar salas](md/cgbabg_encontrar-salas.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_encontrar-salas.html): las vías curadas para descubrir salas de Matrix, guardadas para explorarlas con calma.
-- [El protocolo Matrix](md/cgbabg_protocolo-matrix.md) · [HTML](https://osmancitov.github.io/social/html/cgbabg_protocolo-matrix.html): la conversación como bien común: qué es el protocolo abierto y federado, de dónde viene y por qué importa ahora.
+- [El universo RSS](md/261016_universo-rss.md) · [HTML](https://osmancitov.github.io/social/html/261016_universo-rss.html): RSS no ha muerto: la respuesta de Ron Gilbert al algoritmo y un directorio vivo con todo el ecosistema.
+- [Dónde encontrar salas](md/261016_encontrar-salas.md) · [HTML](https://osmancitov.github.io/social/html/261016_encontrar-salas.html): las vías curadas para descubrir salas de Matrix, guardadas para explorarlas con calma.
+- [El protocolo Matrix](md/261016_protocolo-matrix.md) · [HTML](https://osmancitov.github.io/social/html/261016_protocolo-matrix.html): la conversación como bien común: qué es el protocolo abierto y federado, de dónde viene y por qué importa ahora.

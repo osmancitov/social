@@ -2,7 +2,7 @@
 
 # Dónde encontrar salas
 
-[![El índice de puertas: un viajero con una linterna consulta el gran libro índice de un salón de puertas numeradas, al estilo de Gustave Doré](../img/cgbabg_encontrar-salas.jpg)](../img/cgbabg_encontrar-salas.jpg)
+[![El índice de puertas: un viajero con una linterna consulta el gran libro índice de un salón de puertas numeradas, al estilo de Gustave Doré](../img/261016_encontrar-salas.jpg)](../img/261016_encontrar-salas.jpg)
 
 En Matrix no hay un mostrador único que liste todas las conversaciones: cada servidor lleva su propio directorio. Esta entrada guarda las vías para descubrir salas, tomadas de una guía que un vecino compartió en Matrix HQ, para volver a ellas cuando den ganas de explorar.
 

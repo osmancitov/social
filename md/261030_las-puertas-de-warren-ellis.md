@@ -23,7 +23,7 @@ Los discos rescatados:
 - [Sunn O)))](https://sunn.bandcamp.com/album/sunn-o-2): el peso del mundo hecho guitarra.
 - [Stephen O'Malley, *Spheres Collapser*](https://stephenomalley.bandcamp.com/album/spheres-collapser): la mitad de Sunn O))) a solas.
 - [Julianna Barwick y Mary Lattimore, *Tragic Magic*](https://juliannabarwick.bandcamp.com/album/tragic-magic): voces en capas y arpa.
-- [Keith Berry, *Ichigo Ichie*](https://keithberry.bandcamp.com/album/ichigo-ichie): ambient sereno; el título es una idea japonesa de la ceremonia del té;  cada encuentro ocurre una sola vez. El *ambient* es música de ambiente, hecha para rodear.
+- [Keith Berry, *Ichigo Ichie*](https://keithberry.bandcamp.com/album/ichigo-ichie): ambient sereno; el título es una idea japonesa de la ceremonia del té; cada encuentro ocurre una sola vez. El *ambient* es música de ambiente, hecha para rodear.
 - [Natalie Beridze, *If We Could Hear*](https://natalieberidzetba.bandcamp.com/album/if-we-could-hear): electrónica desde Tiflis.
 - [Abul Mogard y Rafael Anton Irisarri, «In a Quiet Radiance»](https://irisarri.bandcamp.com/track/in-a-quiet-radiance-feat-andrea-burelli-martina-bertoni): una pieza larga y luminosa con dos voces de cuerda.
 - [Alison Cotton, *The Gods Laugh*](https://alisoncotton-uk.bandcamp.com/album/the-gods-laugh): viola y voz en capas densas.
@@ -57,14 +57,14 @@ Para seguir oyendo: los [mixtapes de door.link](https://www.door.link/mixtapes/2
 - [Tiny Awards](https://tinyawards.net/): premios anuales a la web pequeña y hecha a mano.
 - [Dark Forest OS](https://www.dfos.com/): una propuesta para que los grupos creen mundos privados propios, lejos de la web abierta y sus raspadores.
 - [A-Side](https://www.a-side.social/): grupos privados para compartir fotos y mensajes cifrados.
-- [Stowaway](https://stowaway.live/): un rastreador de vuelos que enseña lo que se ve desde la ventanilla;  el cielo real, la hora real, las estrellas de esta noche.
+- [Stowaway](https://stowaway.live/): un rastreador de vuelos que enseña lo que se ve desde la ventanilla: el cielo real, la hora real, las estrellas de esta noche.
 - [Moltbook](https://www.moltbook.com/): un foro donde solo pueden publicar agentes de inteligencia artificial; las personas solo leen.
 - [Zine Stuff](https://zinestuff.blogspot.com/p/free-zines.html): fanzines gratis para imprimir en casa.
-- [The Modernist](https://the-modernist.org/collections/the-modernist-magazine): una revista sobre arquitectura modernista. Dato rescatado: la silla plástica de una pieza que está en todas partes tiene nombre;  Monobloc.
+- [The Modernist](https://the-modernist.org/collections/the-modernist-magazine): una revista sobre arquitectura modernista. Dato rescatado: la silla plástica de una pieza que está en todas partes tiene nombre: Monobloc.
 - [Housmans](https://housmans.com/): la librería radical de Londres, con el mayor fondo de revistas y panfletos de Gran Bretaña.
 - [Sputnik1957](https://sputnik1957s.com/): relojeros ucranianos que restauran relojes soviéticos de los años cincuenta.
 - [Halupedia](https://halupedia.com/): una enciclopedia escrita por completo con alucinaciones de inteligencia artificial.
-- [The Periodic Table of Factory Records](https://www.factoryrecords.org/periodic-table-of-factory-records.php): el catálogo completo del sello de Manchester ordenado como tabla periódica;  cada producción tuvo su número FAC, y el último se reservó para el ataúd de un fundador.
+- [The Periodic Table of Factory Records](https://www.factoryrecords.org/periodic-table-of-factory-records.php): el catálogo completo del sello de Manchester ordenado como tabla periódica; cada producción tuvo su número FAC, y el último se reservó para el ataúd de un fundador.
 - [Philip K. Dick Festival](https://www.philipkdickfest.com/): el festival internacional dedicado al escritor.
 - [Soeur L'Enfer](https://www.soeurlenfer.com/): el proyecto musical de Nina Courson, con videos de Dan Schaffer.
 - [Wyrd Britain](https://wyrdbritain.blogspot.com/2026/10/shadows-over-cymru-uncanny-stories-of.html): un blog de lo raro británico; aquí, cuentos galeses de lo insólito.
@@ -104,7 +104,7 @@ Para seguir oyendo: los [mixtapes de door.link](https://www.door.link/mixtapes/2
 
 ## Cine y tele
 
-- [Max Headroom, la serie completa](https://archive.org/details/max-headroom-complete/): los ochenta entera, en el Internet Archive;  la biblioteca pública en línea que lo guarda todo.
+- [Max Headroom, la serie completa](https://archive.org/details/max-headroom-complete/): los ochenta entera, en el Internet Archive; la biblioteca pública en línea que lo guarda todo.
 - [*Surrealism (and Dada)*, 1971](https://rarefilmm.com/2025/12/surrealism-and-dada-1971/): un documental raro y pequeño, rescatado por la Cueva de las Películas Olvidadas.
 - [Las mejores escenas de acción de 2025](https://mubi.com/en/notebook/posts/the-best-action-scenes-of-2025): el cuaderno de MUBI, el servicio de cine de autor por suscripción.
 - [*The Mandela Catalogue* llega al cine](https://www.worldofreel.com/blog/2026/7/2/the-mandela-catalogue-spielberg-stuber): del horror hecho en YouTube a Amazon.

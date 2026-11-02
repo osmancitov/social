@@ -140,4 +140,4 @@ Fuentes: [Orbital Operations](https://orbitaloperations.beehiiv.com/) · [warren
 
 © 2026 Osmancito
 
-[volver](../social.html)
+[Volver](../social.html)
